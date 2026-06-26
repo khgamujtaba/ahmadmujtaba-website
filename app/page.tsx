@@ -48,7 +48,7 @@ const apps = [
 
 const contacts = [
   { label: "Email", value: "hello@AhmadMujtaba.com", href: "mailto:hello@AhmadMujtaba.com" },
-  { label: "LinkedIn", value: "Ahmad Mujtaba", href: "https://www.linkedin.com/" },
+  { label: "LinkedIn", value: "Ahmad Mujtaba", href: "https://www.linkedin.com/in/khahmadmujtaba/" },
   { label: "Fiverr", value: "View Profile", href: "https://www.fiverr.com/" },
 ];
 
@@ -71,13 +71,13 @@ export default function Home() {
         <div className="section-shell grid min-h-[calc(100vh-76px)] items-center gap-12 py-16 sm:py-20 lg:grid-cols-[1.05fr_0.95fr]">
           <div className="animate-fade-up">
             <p className="mb-5 inline-flex rounded-full border border-black/10 bg-white px-4 py-2 text-xs font-bold uppercase tracking-[0.2em] text-muted shadow-sm">
-              Shopify Developer
+              8+ Years of Shopify Experience
             </p>
             <h1 className="max-w-4xl text-5xl font-black leading-[0.94] tracking-normal text-ink sm:text-7xl lg:text-8xl">
               Ahmad Mujtaba
             </h1>
             <h2 className="mt-6 max-w-3xl text-2xl font-bold leading-tight text-ink sm:text-4xl">
-              Shopify Developer & CRO-Focused Problem Solver
+              Shopify Partner & CRO-Focused Problem Solver
             </h2>
             <p className="mt-6 max-w-2xl text-base leading-8 text-muted sm:text-lg">
               I help Shopify brands fix friction, customize storefronts, integrate smarter workflows, and improve conversion paths with clean, performance-minded code.
